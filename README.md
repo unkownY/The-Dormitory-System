@@ -1,2 +1,3 @@
 # The-Dormitory-System
-To manage the students at dormitorys
+  use the JSP+MySQL
+  manage the dormitory
